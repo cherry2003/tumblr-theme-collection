@@ -1,0 +1,2081 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+ 
+<!---
+ 
+ don't remove the credit
+ leave the credit if you want to use parts of the theme
+ 
+ 
+____________________________________
+ 
+ 
+--->
+ 
+ 
+ 
+<meta name="color:BackgroundColor" content="#ffffff" />
+<meta name="color:BlockquoteBackground" content="#e3e3e3" />
+<meta name="color:BlockquoteBorder" content="#992727" />
+<meta name="color:BlogTitle" content="#473640" />
+<meta name="color:CustomLinksBackground" content="#f4f4f4" /> 
+<meta name="color:CustomLinksText" content="#992727" />
+<meta name="color:DescBold" content="#b2e86d" />
+<meta name="color:DescItalic" content="#6dd8e8" />
+<meta name="color:DescLink" content="#e8736d" />
+<meta name="color:DescText" content="#777777" />
+<meta name="color:EntryAudioPlayCount" content="#f1f1f1" />
+<meta name="color:EntryAudioTrackName" content="#f1f1f1" />
+<meta name="color:EntryBackground" content="#f5f5f5" />
+<meta name="color:EntryBold" content="#b2e86d" />
+<meta name="color:EntryItalic" content="#915c1c" />
+<meta name="color:EntryLikeButton" content="#6dd8e8" />
+<meta name="color:EntryLink" content="#e8736d" />
+<meta name="color:EntryLinkHover" content="#992727" />
+<meta name="color:EntryReblogButton" content="#b2e86d" />
+<meta name="color:EntryText" content="#777777" />
+<meta name="color:MusicTab" content="#ffffff" />
+<meta name="color:NaviAskBackground" content="#b2e86d"/>
+<meta name="color:NaviAskText" content="#347153"/>
+<meta name="color:NaviHomeBackground" content="#e8736d"/>
+<meta name="color:NaviHomeText" content="#992727"/>
+<meta name="color:NaviPastBackground" content="#e8cd6d"/>
+<meta name="color:NaviPastText" content="#915c1c"/>
+<meta name="color:NaviThemeBackground" content="#6dd8e8"/>
+<meta name="color:NaviThemeText" content="#367987"/>
+<meta name="color:PermaLink" content="#e8cd6d" />
+<meta name="color:PermaLinkHover" content="#915c1c" />
+<meta name="color:PermaLinkOriViaBackground" content="#e8736d" />
+<meta name="color:PermaLinkOriViaText" content="#992727" />
+<meta name="color:PostTitle" content="#473640" />
+<meta name="color:PostTitleBackground" content="#f1f1f1" />
+<meta name="color:QuoteSourceItalic" content="#999999" />
+<meta name="color:QuoteSourceLink" content="#f1f1f1" />
+
+ 
+
+
+<meta name="if:InfiniteScrolling" content="0" />
+<meta name="if:ShowCaptions" content="1">
+<meta name="if:FadingPhoto" content="0" />
+<meta name="if:500Posts" content="1" />
+<meta name="if:540Posts" content="0" />
+<meta name="if:Monochrome" content="0" />
+<meta name="if:MusicPlayer" content="1" />
+<meta name="if:ShowTags" content="1" />
+<meta name="if:CustomLinks" content="1" />
+<meta name="if:CustomLinkHideEffect" content="1" />
+
+
+
+
+ 
+<meta name="image:SidebarImage" content="http://static.tumblr.com/uuxiawr/iM5o9dy8t/untitled-1.png"/>
+<meta name="image:BackgroundImage" content=""/>
+<meta name="image:CornerImage" content="" />
+
+
+
+ 
+<meta name="text:Background Repeat" content="repeat"/>
+<meta name="text:MusicCode" content="Music Code Here"/>
+<meta name="text:Subtitle" content=""/>
+
+
+ 
+<meta name="text:Link1" content="" />
+<meta name="text:URL1" content="/"/>
+<meta name="text:Link2" content="" />
+<meta name="text:URL2" content="/"/>
+<meta name="text:Link3" content="" />
+<meta name="text:URL3" content="/"/>
+<meta name="text:Link4" content="" />
+<meta name="text:URL4" content="/"/>
+<meta name="text:Link5" content="" />
+<meta name="text:URL5" content="/"/>
+<meta name="text:Link6" content="" />
+<meta name="text:URL6" content="/"/>
+<meta name="text:Link7" content="" />
+<meta name="text:URL7" content="/"/>
+<meta name="text:Link8" content="" />
+<meta name="text:URL8" content="/"/>
+
+ 
+ 
+ 
+ 
+ 
+<head>
+
+<link rel="stylesheet" type="text/css" href="http://static.tumblr.com/7fjp0ap/Ap9n7bmaf/stylesheet.css" />
+<link href='http://static.tumblr.com/7fjp0ap/uQWn2jbu0/stylesheet.css' rel='stylesheet' type='text/css'>
+
+<link rel="stylesheet" type="text/css" href="http://static.tumblr.com/uuxiawr/7ono98kkl/mohave_gluk.css" />
+
+<link rel="stylesheet" type="text/css" href="http://static.tumblr.com/uuxiawr/dDeo9cebd/ostrich_prosto_govern.css" />
+
+<link rel="stylesheet" type="text/css" href="http://static.tumblr.com/uuxiawr/N2wo9dw61/academic_gabo_grealn.css" />
+
+<link href='http://fonts.googleapis.com/css?family=Tulpen+One' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Dosis' rel='stylesheet' type='text/css'>
+
+<link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<title>{Title}</title>
+<link rel="shortcut icon" href="{Favicon}">
+
+
+
+<script src="http://static.tumblr.com/n82fyzo/XjQmg8058/cufon-yui.js" type="text/javascript"></script>
+<script src="http://static.tumblr.com/7fjp0ap/W5tn44wot/pixel_millennium_400.font.js" type="text/javascript"></script>
+ 
+ 
+<script type="text/javascript">
+Cufon.replace('');
+Cufon.replace('');
+</script>
+ 
+<style type="text/css">
+ 
+ 
+ 
+ 
+ 
+ 
+body {
+background-image: url('{image:backgroundimage}');
+background-color: {color:backgroundcolor};
+background-attachment: fixed;
+background-repeat: {text:Background Repeat};
+color: {color:EntryText};
+font-family: {font:body};
+font-size: 10px;
+}
+ 
+
+::-webkit-scrollbar-thumb:vertical {
+background-color: {color:EntryText};
+height: 30px;
+width: 8px;
+}
+ 
+::-webkit-scrollbar {
+height: 30px;
+width: 8px;
+background: ;
+}
+ 
+a{
+color: {color:entrylink};
+
+text-decoration: none;
+-webkit-transition: all 0.5s linear;
+-moz-transition: all 0.5s linear;
+-o-transition: all 0.5s linear;
+}
+ 
+a:hover{
+color: {color:entrylinkhover};
+}
+
+
+.psholder{
+margin-right:auto;
+margin-left:auto;
+{block:if500Posts}width: 950px;{/block:if500Posts}
+{block:ifNot500Posts}
+width: 850px;
+{block:if540Posts}width: 990px;{/block:if540Posts}
+{/block:ifNot500Posts}  
+{block:permalinkpage}
+{block:if500Posts}width: 870px;{/block:if500Posts}
+{block:ifNot500Posts}
+width: 770px;
+{block:if540Posts}width: 910px;{/block:if540Posts}
+{/block:ifNot500Posts}  
+{/block:permalinkpage}
+z-index:9998;
+}
+
+
+.blogtitle{
+color:{color:blogtitle};
+font-family: 'gabo_driveregular';
+width: 230px;
+text-align:center;
+font-size:22px;
+line-height:15px;
+margin-top:70px;
+}
+
+
+#sidebar{
+width: 230px;
+display: inline-block;
+top: 0px;
+bottom:0px;
+margin-left: 0px;
+text-align: center;
+position: fixed;
+}
+
+
+#sidebarx{
+margin-top:10px;
+border: 1px solid  {color:DescText};
+padding:5px;
+padding-bottom:2px;
+display:inline-block;
+text-align: center;
+}
+
+
+#sidebarx img{
+display:inline-block;
+width: 220px;
+}
+
+
+
+
+#desc{
+display:block;
+float:left;
+margin: 10px 0px 10px 0px; 
+width: 158px;
+text-align: justify;
+color:{color:desctext};
+font-size: 10px;
+font-family: calibri;
+}
+ 
+ 
+#desc a{
+color: {color:desclink};  
+border-bottom: 1px solid {color:desclink};
+-webkit-transition: all 0.5s ease-in-out;
+-moz-transition: all 0.5s ease-in-out;
+-o-transition: all 0.5s ease-in-out;
+}
+ 
+ 
+#desc a:hover{
+border-bottom: 1px solid {color:desctext};
+}
+ 
+ 
+#desc b,strong{
+color: {color:descbold};  
+}
+ 
+#desc i,em{
+color: {color:descitalic};    
+} 
+    
+ 
+#hide{
+display:block;
+float:left;
+text-align:left;
+margin: 0px 0px 5px 0px; 
+width: 125px;
+padding-left:3px;
+color: {color:NaviBackground};
+line-height:12px;
+font-size:20px;
+font-family: calibri;
+font-size:10px;
+border-bottom: 1px dotted {color:NaviBackground};
+}
+ 
+#hide h{
+color: {color:NaviBackground};
+} 
+    
+    
+
+
+    
+
+    
+
+    
+#navibox{
+margin-top: 0px;
+width: 60px;
+text-align: center;
+display: block;
+height:150px;
+float:right;
+}   
+
+
+
+#navibox a{
+display: block;
+float:left;
+font-size: 8px;
+margin: 0px 0px 2px 5px;
+width: 9px;
+height:100%;
+text-align: center;
+color: {color:NaviText}; 
+background-color: {color:NaviBackground};
+text-transform: uppercase;
+-webkit-transition: all 0.8s ease-in-out;
+-moz-transition: all 0.8s ease-in-out;
+-o-transition: all 0.8s ease-in-out;
+padding-bottom:10px;
+position:relative;
+
+}
+
+#navibox1 a{
+padding-top:50px; 
+color:{color:NaviHomeText};
+background-color: {color:NaviHomeBackground};
+}
+
+#navibox1 a:hover{
+padding-top:100px;   
+}
+
+#navibox2 a{
+padding-top:85px; 
+color:{color:NaviAskText};
+background-color: {color:NaviAskBackground};
+}
+
+#navibox2 a:hover{
+padding-top:100px;   
+}
+
+#navibox3 a{
+padding-top:65px; 
+color:{color:NaviPastText};
+background-color: {color:NaviPastBackground};
+}
+
+#navibox3 a:hover{
+padding-top:100px;   
+}
+
+#navibox4 a{
+padding-top:80px; 
+color:{color:NaviThemeText};
+background-color: {color:NaviThemeBackground};
+}
+
+#navibox4 a:hover{
+padding-top:100px;   
+}
+
+
+
+#navitext{
+display:inline-block;
+width:9px;
+text-align:center;
+font-size:11px;
+position:absolute;
+margin-left: -5px;
+line-height:11px;
+bottom:20px;
+-webkit-transition: all 0.8s ease-in-out;
+-moz-transition: all 0.8s ease-in-out;
+-o-transition: all 0.8s ease-in-out;
+word-wrap:break-word;
+white-space: pre-wrap;
+word-break:break-all;
+font-family: 'gabo_driveregular';
+opacity: 0;
+}
+
+
+
+#navibox a:hover #navitext{
+bottom:5px;
+opacity: 1;
+-webkit-transition: all 0.8s ease-in-out;
+-moz-transition: all 0.8s ease-in-out;
+-o-transition: all 0.8s ease-in-out;
+}
+
+
+
+#customlinksbox{
+width:128px;
+display:block;
+float:left;
+text-align:center;
+}
+
+
+#customlinksbox a{
+width:60px;
+padding:1px;
+margin-bottom:1px;
+display:inline-block;
+text-align:center;
+font-size: 10px;
+font-family:calibri;
+line-height:10px;
+background-color:{color:customlinksbackground};
+color:{color:customlinkstext};
+-webkit-transition: all 0.5s ease-in-out;
+-moz-transition: all 0.5s ease-in-out;
+-o-transition: all 0.5s ease-in-out;
+}
+
+#customlinksbox a:hover{
+background-color:{color:customlinkstext};
+color:{color:customlinksbackground};
+}
+
+
+#subtitle{
+font-family: 'ostrich_sansheavy';
+letter-spacing:1px;
+font-size: 9px;
+width: 230px; 
+line-height:9px;
+display: block;
+margin-top:3px;
+text-align: center;
+color: {color:desctext};
+}
+
+
+#customboximg img{
+width: 118px;
+margin-bottom:5px;
+border: 1px dotted {color:sidebarimageborder};
+}
+
+
+
+#pagi{
+{block:IfCustomLinkHideEffect}
+display:block;
+float:left;
+margin-top:10px;
+{/block:IfCustomLinkHideEffect}
+{block:IfnotCustomLinkHideEffect}
+margin-top:20px;
+margin-left:118px;
+{/block:IfnotCustomLinkHideEffect}
+width:128px;
+height:15px;
+line-height:15px;
+font-size: 11px;
+letter-spacing:1px;
+text-align:center;
+font-family: 'gabo_driveregular';
+color: {color:desctext};
+}
+ 
+
+ 
+.jump_page {
+padding: 2px;
+text-decoration:none;
+color: {color:desctext};
+}
+ 
+ 
+ 
+.current_page, .jump_page:hover {
+padding: 2px;
+color: {color:desclink};
+text-decoration:none;
+}
+
+ 
+ 
+#posts{
+{block:if500Posts}width: 520px;{/block:if500Posts}
+{block:ifNot500Posts}
+width: 420px;
+{block:if540Posts}width: 560px;{/block:if540Posts}
+{/block:ifNot500Posts}
+margin-left: 280px;
+margin-bottom:50px;
+margin-top:50px;
+position:relative;
+}
+
+ 
+img.center {
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+ 
+ 
+.entry{
+{block:if500Posts}width: 500px;{/block:if500Posts}
+{block:ifNot500Posts}
+width: 400px;
+{block:if540Posts}width: 540px;{/block:if540Posts}
+{/block:ifNot500Posts}
+padding:10px;
+text-align:justify;
+margin-top: 50px;
+overflow: hidden;
+font-family: 'Montserrat', sans-serif;
+font-size:10px;
+background-color:{color:entrybackground};
+color:{color:EntryText};
+-webkit-transition: all 0.7s ease-in-out;
+-moz-transition: all 0.7s ease-in-out;
+-o-transition: all 0.7s ease-in-out;  
+}
+ 
+
+ 
+.entry img{
+{block:if500Posts}max-width: 500px;{/block:if500Posts}
+{block:ifNot500Posts}
+max-width: 400px;
+{block:if540Posts}max-width: 540px;{/block:if540Posts}
+{/block:ifNot500Posts}
+
+{block:IndexPage}
+{block:ifFadingPhoto}
+opacity: 0.7;
+-webkit-transition: all 0.7s ease-in-out;
+-moz-transition: all 0.7s ease-in-out;
+-o-transition: all 0.7s ease-in-out;  
+{/block:ifFadingPhoto}
+ 
+{block:ifMonochrome}
+filter: url("data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\'><filter id=\'grayscale\'><feColorMatrix type=\'matrix\' values=\'0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0\'/></filter></svg>#grayscale"); /* Firefox 3.5+ */
+filter: gray; /* IE6-9 */
+-webkit-filter: grayscale(100%); /* Chrome 19+ & Safari 6+ */
+-webkit-transition: all 0.7s linear;
+-moz-transition: all 0.7s linear;
+-o-transition: all 0.7s linear;
+{/block:ifMonochrome}
+{/block:IndexPage}
+}
+ 
+ 
+.entry:hover img{
+opacity: 1;
+filter: none;
+-webkit-filter: grayscale(0%);  
+}
+ 
+ 
+.entry b, strong{
+color: {color:EntryBold};
+}
+ 
+.entry i, em{
+color: {color:EntryItalic};
+}
+ 
+.entry a{
+color: {color:EntryLink};
+text-decoration: none;
+-webkit-transition: all 0.7s ease-in-out;
+-moz-transition: all 0.7s ease-in-out;
+-o-transition: all 0.7s ease-in-out;  
+}
+ 
+ 
+.entry a:hover{
+color: {color:EntryLinkHover};
+text-decoration: none;
+}
+ 
+.entry h1{
+font-family: consolas;
+text-transform: uppercase;
+font-size: 15px;
+font-weight: 20px;
+letter-spacing: 1px;
+}
+ 
+.entry h1 a{
+color: {color:EntryLink};
+}
+ 
+.entry blockquote{
+border-left: 3px solid {color:blockquoteborder};
+padding:1px 4px 1px 10px;
+margin:5px;
+text-align:justify;
+}
+ 
+ 
+.entry blockquote a{
+color:{color:BlockquoteLink};
+}
+ 
+ 
+.entry blockquote img{
+max-width: 90%;
+margin-left: 3px;
+}
+ 
+ 
+.entry pre{
+word-wrap:break-word;
+white-space: pre-wrap;
+word-break:break-all;
+font-family:courier new;
+font-size:11px;
+padding:5px;
+letter-spacing:0px;
+}
+ 
+ 
+.entry pre a{
+color:{color:EntryLink};
+}
+ 
+ 
+.entry blockquote pre{
+font-size:10px;
+font-family:courier new;
+width:93%;
+margin:5px;
+display:block;
+word-wrap:break-word;
+white-space: pre-wrap;
+word-break:break-all;
+}
+ 
+ 
+.entry blockquote pre a{
+color:{color:EntryLink};
+}
+ 
+ 
+ 
+ 
+#quote{
+color: {color:EntryText};
+padding: 15px;
+font-family: dosismedium;
+font-size:13px;
+text-align:center;
+border:2px solid {color:EntryText};
+border-top:44px solid {color:EntryText};
+line-height: 15px;
+display:block;
+margin-top:-44px;
+}
+ 
+.quoteor{
+font-family: 'dingleberriesregular';
+width:50px;
+height:38px;
+border:2px solid {color:EntryText};
+line-height:40px;
+padding-top:2px;
+text-align:center;
+font-size:40px;
+color: {color:EntryText};
+background-color:{color:entrybackground};
+display:inline-block;
+}
+ 
+ 
+#source {
+font-family: consolas;
+font-size:10px;
+display:block;
+background-color:{color:EntryText};
+padding:3px;
+color:{color:entrybackground};
+text-align: center;
+margin-top: 10px;
+}
+
+
+#source p{
+    display:none;
+}
+ 
+ 
+#source a{
+color:{color:quotesourcelink};
+}
+ 
+ 
+#source i,em{
+color:{color:quotesourceitalic};
+}
+ 
+ 
+b,strong{
+color:{color:bold};
+background-color:{color:boldbackground};
+}
+ 
+ 
+i,em{
+color:{color:italic};
+}
+
+
+/*NewPerma*/
+ 
+#permanew{
+z-index: 999;
+{block:if500Posts}margin-left: 520px;{/block:if500Posts}
+{block:ifNot500Posts}
+margin-left: 420px;
+{block:if540Posts}margin-left: 540px;{/block:if540Posts}
+{/block:ifNot500Posts}
+display: block;
+width:150px;
+margin-top: 3px;
+float:left;
+text-align: center;
+padding: 0px;
+position: absolute;
+-webkit-transition: all 0.7s ease-in-out;
+-moz-transition: all 0.7s ease-in-out;
+-o-transition: all 0.7s ease-in-out;  
+}
+ 
+ 
+#notesx a{
+font-style: none;
+display:block;
+float:left;
+width:150px;
+text-align:center;
+color: {color:PermaLink};
+font-family: georgia;
+font-style:italic;
+font-size: 17px;
+-webkit-transition: all 0.7s ease-in-out;
+-moz-transition: all 0.7s ease-in-out;
+-o-transition: all 0.7s ease-in-out;  
+}
+ 
+#notesx a:hover {
+color: {color:PermaLinkHover};
+font-style: none;
+}
+
+
+.lholder{
+width:70px;
+display:inline-block;
+}
+
+.likebuttonx{
+display:block;
+float:left;
+text-align:center;
+margin-top:10px;
+width:20px;
+padding:0px 5px 0px 5px;
+} 
+
+.dot{
+display:block;
+float:left;
+width:10px;
+text-align:center;
+margin-top:9px;
+color:{color:Permalink};
+}
+ 
+.reblogx a{
+display:block;
+float:right;
+text-align:center;
+margin-top:10px;
+width:20px; 
+padding:0px 7px 0px 7px;
+}
+ 
+ 
+.ovholder{
+width:80px;
+display:inline-block;
+padding-left:10px;
+}
+ 
+.ori_viax img{
+display:block;
+float:left;
+margin-right:10px;
+width:20px;
+height:20px;
+margin-top:10px;
+opacity:0.7;
+border:5px solid {color:PermaLinkOriViaBackground};
+border-radius:25px 25px 25px 25px;
+-moz-border-radius:25px 25px 25px 25px;
+{block:ifmonochrome}
+filter: url("data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\'><filter id=\'grayscale\'><feColorMatrix type=\'matrix\' values=\'0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0\'/></filter></svg>#grayscale"); /* Firefox 3.5+ */
+filter: gray; /* IE6-9 */
+-webkit-filter: grayscale(100%); /* Chrome 19+ & Safari 6+ */
+-webkit-transition: all 0.7s linear;
+-moz-transition: all 0.7s linear;
+-o-transition: all 0.7s linear;
+{/block:ifmonochrome}
+}
+
+.ori_via_text{
+display:block;
+float:left;
+margin-right:10px;
+margin-top:3px;
+width:20px;
+padding:0px 5px 0px 5px;
+text-align:center;
+font-family:calibri;
+font-size:10px;
+background-color:{color:PermaLinkOriViaBackground};
+color:{color:PermaLinkOriViaText};
+}
+
+ 
+/* NEW PERMA END */
+ 
+.tags{
+{block:if500Posts}width: 520px;{/block:if500Posts}
+{block:ifNot500Posts}
+width: 420px;
+{block:if540Posts}width: 540px;{/block:if540Posts}
+{/block:ifNot500Posts}
+display: inline-block;
+margin-top: 5px;
+text-align: center;
+padding: 0px;
+position:relative;
+color: {color:EntryText}; 
+}
+ 
+ 
+.tags a{
+font-style: none;
+display:inline-block;
+text-transform:uppercase;
+margin-bottom:3px;
+padding:1px 4px 1px 4px;
+color: {color:EntryText};
+background-color:{color:EntryBackground};
+font-family: calibri;
+font-size: 9px;
+  -webkit-border-radius: 5px;
+     -moz-border-radius: 5px;
+          border-radius: 5px;
+-webkit-transition: all 0.7s ease-in-out;
+-moz-transition: all 0.7s ease-in-out;
+-o-transition: all 0.7s ease-in-out;  
+}
+ 
+.tags a:hover {
+color: {color:PermaLinkHover};
+font-style: none;
+}
+ 
+.permalink {
+font-family: cambria;
+font-size: 10px;
+color: {color:EntryText};
+text-transform: uppercase;
+text-align: center;
+{block:if500Posts}width: 494px;{/block:if500Posts}
+{block:ifNot500Posts}
+width: 394px;
+{block:if540Posts}width: 534px;{/block:if540Posts}
+{/block:ifNot500Posts}
+padding:10px;
+margin-top: 20px;
+margin-bottom: 10px;
+margin-left: -10px;
+float: left;
+background-color: {color:entrybackground};
+}
+ 
+.permalink b,strong{
+color: {color:Bold};
+font-weight: normal;
+}
+ 
+#date {
+color: {color:EntryText};
+}
+ 
+.permalink a {
+color: {color:EntryLink};
+text-decoration: none;
+}
+
+
+
+ 
+ 
+.title{
+color: {color:PostTitle};
+padding-top: 5px;
+padding-bottom: 5px;
+font-size: 25px;
+margin-bottom:10px;
+font-family: 'mohavebold';
+line-height: 15px;
+text-transform: none;
+text-align: center;
+display:block;
+border-bottom: 1px dotted {color:posttitle};
+}
+ 
+ 
+.title2{
+color: {color:PostTitle};
+padding:20px;
+font-size: 24px;
+margin-bottom:10px;
+display:block;
+text-transform: none;
+text-align: center;
+font-family: 'avanti_serif_regular';
+background-color: {color:posttitlebackground};
+border:1px solid {color:posttitle};
+-webkit-transition: all 0.5s linear;
+-moz-transition: all 0.5s linear;
+-o-transition: all 0.5s linear;
+}
+ 
+ 
+.title2 a{
+color: {color:PostTitle};  
+width:100%;
+display:block;    
+text-decoration:none;
+}
+ 
+.title2 z{
+color: {color:PostTitle};  
+font-size:11px;
+font-family:calibri;
+width:100%;
+text-decoration:underline;
+display:block;
+}
+ 
+ 
+.title2 a:hover{
+color: {color:PostTitle};      
+}
+ 
+ 
+ 
+.arrow-down2 {
+margin-top:-5px;
+display:block;
+margin-left:20px;
+width:0px;
+height:0px;
+border-left:10px solid transparent;
+border-right:10px solid transparent;
+border-top:15px solid {color:EntryText};
+font-size:0px;
+line-height:0px;
+}
+ 
+ 
+.ask {
+display:inline-block;
+padding:1px;
+width:100%;
+font-size:11px;
+margin-left:0px;
+margin-top:0px;
+color:{color:EntryText};
+text-transform: none;
+}
+ 
+.askx{
+width: 50px;
+height:50px;
+margin-top:0px;
+margin-right:10px;
+border:1px solid {color:EntryText};
+display:block;
+float:left;    
+text-align:center;
+} 
+ 
+.askx img {
+width: 50px;
+height:50px;
+}
+ 
+.asky {
+text-transform:uppercase;
+margin-top:5px;
+font-size:10px;
+display:block;
+float:left;
+padding:1px;
+border-bottom:1px dotted {color:EntryText};
+color:{color:EntryText};
+}
+
+
+.aska{
+display:block;
+margin-top:10px;
+padding-top:5px;
+border-top: 1px dashed {color:EntryText};
+}
+ 
+ 
+
+ 
+ol.notes {
+background-color:{color:EntryBackground};
+font-family:tahoma;
+font-size:10px;
+padding-top:10px;
+border: 0px;
+padding-left:15px;
+margin-top:10px;
+{block:if500Posts}width: 476px;{/block:if500Posts}
+{block:ifNot500Posts}
+width: 376px;
+{block:if540Posts}width: 516px;{/block:if540Posts}
+{/block:ifNot500Posts}
+margin-left: 0px;
+list-style-type: none;}
+ 
+ol.notes li.note {
+background: ;
+padding:5px;
+{block:if500Posts}width: 480px;{/block:if500Posts}
+{block:ifNot500Posts}
+width: 380px;
+{block:if540Posts}width: 520px;{/block:if540Posts}
+{/block:ifNot500Posts}
+letter-spacing: 0px;
+text-align: left;
+}
+ 
+ol.notes li.note a{
+color:{color:EntryLink};
+background: ;
+font-family:tahoma;
+text-transform:none;
+letter-spacing:0px;
+font-size:10px;}
+ 
+ol.notes li.note img.avatar {
+vertical-align: -4px;
+margin-right: 0px;
+}
+
+
+ 
+.reblog-button svg path { 
+    fill: {color:entryreblogbutton};
+} 
+
+.like { /* Make a parent element */
+    position: relative;
+}
+.like svg path { /* Select your color of choice */
+    fill: {color:entrylikebutton}; 
+}
+.like .like_button { /* Position like button above your custom one */
+    position: absolute;
+    top: 0;
+    right:0;
+    opacity: 0;
+}
+.like .like_button.liked { /* Keep the functionality active */
+    opacity: 1;
+}
+
+.likedivv{
+    display:block;
+    float:left;
+    width:20px;
+    height:20px;
+    margin-left:10px;
+}
+
+.photo img { max-width: 100%; height: auto }
+
+#pagination{
+width:10;
+left:0px;
+bottom:0px;
+position:absolute;
+padding:5px 15px 0px 0px;
+display:none;
+}
+
+/* =============================================================================
+   PXU Photoset Extended Styles
+   ========================================================================== */
+
+.clearit:before, .clearit:after { content: ""; display: table; }
+.clearit:after { clear: both; }
+.clearit { *zoom: 1; }
+
+/* Photoset */
+
+.photo-slideshow {
+  visibility: hidden;
+}
+
+.photo-slideshow.processed {
+  visibility: visible;
+}
+
+.photo-slideshow .row {
+  clear: both;
+  width: 100%;
+}
+
+.photo-slideshow .pxu-photo {
+  display: block;
+  float: left;
+  margin-bottom: 0;
+  width: 100%;
+  overflow: hidden;
+}
+
+.photo-slideshow .pxu-photo img {
+  display: block;
+}
+
+.photo-slideshow.processed .pxu-photo img {
+  width: 100%;
+  height: auto;
+}
+
+.photo-slideshow .pxu-photo:first-child img {
+  margin-left: 0;
+}
+
+.photo-slideshow .count-1 {
+  width: 100%;
+  margin-bottom:4px;
+}
+
+.photo-slideshow .count-2 {
+margin-bottom:4px;
+}
+
+.photo-slideshow .count-2:nth-child(1) {
+{block:if500Posts}width: 248px;{/block:if500Posts}
+{block:ifNot500Posts}
+width: 198px;
+{block:if540Posts}width: 268px;{/block:if540Posts}
+{/block:ifNot500Posts}    
+}
+
+.photo-slideshow .count-2:nth-child(2) {
+{block:if500Posts}width: 248px;{/block:if500Posts}
+{block:ifNot500Posts}
+width: 198px;
+{block:if540Posts}width: 268px;{/block:if540Posts}
+{/block:ifNot500Posts}    
+margin-left:4px;
+}
+
+.photo-slideshow .count-3{
+margin-bottom:4px;
+}
+
+.photo-slideshow .count-3:nth-child(1) {
+{block:if500Posts}width: 164px;{/block:if500Posts}
+{block:ifNot500Posts}
+width: 130.6666666666667px;
+{block:if540Posts}width: 177px;{/block:if540Posts}
+{/block:ifNot500Posts}    
+}
+
+.photo-slideshow .count-3:nth-child(2) {
+{block:if500Posts}width: 164px;{/block:if500Posts}
+{block:ifNot500Posts}
+width: 130.6666666666667px;
+{block:if540Posts} width: 178px;{/block:if540Posts}
+{/block:ifNot500Posts}    
+ margin-left:4px;
+}
+
+.photo-slideshow .count-3:nth-child(3) {
+{block:if500Posts}width: 164px;{/block:if500Posts}
+{block:ifNot500Posts}
+width: 130.6666666666667px;
+{block:if540Posts}width: 177px;{/block:if540Posts}
+{/block:ifNot500Posts}    
+margin-left:4px;
+}
+
+.photo-slideshow .count-4 {
+  width: 25%;
+  margin-bottom:4px;
+}
+
+.photo-slideshow .count-5 {
+  width: 20%;
+  margin-bottom:4px;
+}
+
+.photo-slideshow .info {
+  display: none;
+}
+
+.tumblr-box {
+  display:block;
+  position:absolute;
+  top:0;
+  right:0;
+  bottom:0;
+  left:0;
+  z-index:1;
+}
+
+/* Icons for EXIF Data and Zoom */
+
+.photo-data {
+  position: relative;
+  float: left;
+}
+
+.icons {
+  position: absolute;
+  top: 5px;
+  right: 5px;
+  width: 20px;
+  height: 66px;
+  text-indent: -9999px;
+  z-index: 999;
+  visibility: hidden;
+}
+
+.icons > span, .icons .tumblr-box span {
+  width: 20px;
+  height: 20px;
+  display: block;
+  margin-bottom: 2px;
+  cursor: pointer;
+}
+
+.zoom {
+  background: url('http://static.tumblr.com/hugxd2w/kgem0so9j/zoom-icon.png');
+}
+
+.info {
+  background: url('http://static.tumblr.com/hugxd2w/ffwm0so9t/info-icon.png');
+  position: relative;
+}
+
+/* EXIF & CAPTION Data Tooltip */
+
+.pxu-data {
+  position: absolute;
+  top: 30px;
+  left: -110px;
+  width: 240px;
+  background: #000;
+  background: rgba(0,0,0,.85);
+  color: #fff;
+  font-size: 12px;
+  line-height: 1.4;
+  text-indent: 0;
+  padding: 20px;
+  display: none;
+  opacity: 0;
+  filter: alpha(opacity = 0);
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+
+  box-shadow: 2px 2px 7px rgba(0,0,0,0.55);
+
+  -webkit-border-radius: 5px;
+     -moz-border-radius: 5px;
+          border-radius: 5px;
+
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+
+}
+
+.pxu-caption {
+  margin-top: 0;
+  word-wrap: break-word;
+}
+
+.pxu-caption:before {
+  content: url('http://static.tumblr.com/hugxd2w/SSBm6wxmm/caption-icon.png');
+  opacity: 0.5;
+  filter: alpha(opacity = 50);
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+  float: left;
+  margin-right: 5px;
+}
+
+.pxu-data.caption-only .pxu-caption {
+  margin-bottom: 0;
+}
+
+.pxu-data table {
+  font-family: "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-weight: bold;
+  width: 100%;
+}
+
+.pxu-data table tr {
+  width: 100%;
+}
+
+.pxu-data table tr td {
+  width: 50%;
+  font-weight: bold;
+  padding-bottom: 15px;
+}
+
+.pxu-data table tr:last-child td {
+  padding-bottom: 0;
+}
+
+.pxu-data .label {
+  color: #cccccc;
+  text-transform: uppercase;
+  font-size: 10px;
+  text-align: right;
+  padding-right: 12px;
+  font-weight: normal;
+}
+
+.arrow-down {
+  width: 0;
+  height: 0;
+  border-left: 10px solid transparent;
+  border-right: 10px solid transparent;
+
+  border-bottom: 10px solid rgba(0,0,0,0.85);
+
+  position: absolute;
+  top: -10px;
+  left: 110px;
+}
+
+
+.tmblr-iframe {
+right:3px !important; 
+position:fixed !important;
+z-index:9999999999!important;
+opacity: 0.4;
+-webkit-transition: all 0.4s ease-in-out;
+-moz-transition: all 0.4s ease-in-out;
+-o-transition: all 0.4s ease-in-out;
+-ms-transition: all 0.4s ease-in-out;
+transition: all 0.4s ease-in-out;
+}
+.tmblr-iframe:hover {
+opacity: 1;
+-webkit-transition: all 0.4s ease-in-out;
+-moz-transition: all 0.4s ease-in-out;
+-o-transition: all 0.4s ease-in-out;
+-ms-transition: all 0.4s ease-in-out;
+transition: all 0.4s ease-in-out;
+}
+ 
+ 
+ 
+.playerbuttonbg {
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    top:0px;
+    height: 200px;
+    background-color: #000;
+    transition: opacity .7s ease-in-out;
+    -moz-transition: opacity .7s ease-in-out;
+    -webkit-transition: opacity .7s ease-in-out;
+}
+
+
+
+.newplayerbutton {
+    position: relative;
+    height: 200px;
+    left:0px;
+    right:200px;
+    overflow: hidden;
+}
+
+.playerbuttonhug {
+    position: absolute;
+
+}
+
+.tumblr_audio_player {
+    width:40px;
+    height: 200px;
+    left:0px;
+}
+
+
+.audioimgwrapper {
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    overflow: hidden;
+    width: 200px;
+    height: 200px;
+    z-index:97;
+}
+
+.audioimgwrapper img {
+    width: 100%;
+    height: auto;        
+    position:absolute;
+    z-index:9px;
+    top:0px;
+}
+
+
+.audioimgwrapper3{
+    width: 100%;
+    height: 100%;        
+    position:absolute;
+    z-index:9px;
+    background-color:#000;
+    opacity:1;
+}
+
+.audioimgwrapper2 img {
+    width: 100%;
+    height: auto;
+    position:absolute;
+    z-index:-2px;
+    top:0px;
+}
+
+.trackdetails {
+    left: 40px;
+    position:absolute;
+    height: 200px;
+    width:300px;
+    text-align:center;
+    z-index:999;
+    display: table;
+    font-size:20px;
+    font-family: 'mohavebold';
+    color:{color:EntryBold};
+}
+
+
+.trackdetails p{
+    width:100%;
+    text-align:center;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+
+.pc{
+    font-size:20px;
+    font-family: 'mohavebold';
+    color:{color:EntryAudioPlayCount};
+    line-height:1px;
+}
+
+.ann{
+    font-size:10px;
+    font-family: 'mohaveregular';
+    color:{color:EntryAudioTrackName};
+    line-height:1px;
+}
+
+
+.audiowrapper {
+    position:relative;
+    display:block;
+    width:100%;
+    height: 200px;
+}
+
+
+.photo img{
+display:block;
+{block:iffadingphoto}
+filter:alpha(opacity=70);
+-moz-opacity: 0.7;
+-webkit-transition: all 0.7s linear;
+-moz-transition: all 0.7s linear;
+-o-transition: all 0.7s linear;
+{/block:iffadingphoto}
+
+{block:ifMonochrome}
+filter: url("data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\'><filter id=\'grayscale\'><feColorMatrix type=\'matrix\' values=\'0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0\'/></filter></svg>#grayscale"); /* Firefox 3.5+ */
+filter: gray; /* IE6-9 */
+-webkit-filter: grayscale(100%); /* Chrome 19+ & Safari 6+ */
+-webkit-transition: all 0.7s linear;
+-moz-transition: all 0.7s linear;
+-o-transition: all 0.7s linear;
+{/block:ifMonochrome}
+}
+
+.photo:hover img{
+opacity: 1;
+filter: none;
+-webkit-filter: grayscale(0%);  
+}
+ 
+ 
+ 
+ 
+.odd .line {
+padding: 3px;
+margin-bottom:3px;
+border-bottom: 2px solid {color:EntryText};
+}
+.even .line {
+padding:3px;
+margin-bottom:3px;
+border-bottom: 2px solid {color:EntryText};
+}
+.odd .name {
+padding: 3px;
+}
+.even .name {
+padding: 3px;
+}
+
+    
+#musicbox2
+    {position:fixed;
+    top:0px;
+    left:0;
+    width:95px;
+    height:12px;
+    background-color:{color:musictab};
+    text-align:center;
+    padding:3px;
+    overflow:hidden;
+    border-radius:3px;
+    -moz-border-radius:2px;
+    opacity:0.5;
+    -webkit-transition: opacity 0.5s ease-in-out;
+    -webkit-transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+        }
+
+#musicbox2:hover
+    {opacity:1;
+        }
+
+#insidebox
+    {height:11px;
+    -webkit-transition: opacity 0.5s ease-in-out;
+    -webkit-transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+        }
+        
+#playerbox
+    {margin-top:5px;
+        }
+#musicbox2:hover #insidebox
+    {margin-top:-20px;
+        }
+ 
+ 
+{CustomCSS}
+ 
+</style>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js" type="text/javascript"></script>
+
+
+<script src="https://static.tumblr.com/qudkd6d/Az6nkemqr/pxuphotoset.min.js" type="text/javascript"></script>
+ 
+{block:IfCustomLinkHideEffect}
+<script type="text/javascript">
+jQuery(document).ready(function() {
+    jQuery("#customlinksbox").hide();
+    //toggle the componenet with class msg_body
+    jQuery("#hide").click(function()
+    {
+        jQuery(this).next("#customlinksbox").slideToggle(500);
+    });
+});
+</script>
+{/block:IfCustomLinkHideEffect}
+
+
+
+
+<script type="text/javascript">
+
+$(document).ready(function() {
+    $('.photo-slideshow').pxuPhotoset({
+        lightbox:true,
+        rounded:false,
+        gutter:'0px',
+        borderRadius:'0px',
+        photoset:'.photo-slideshow',
+        photoWrap:'.photo-data',
+        photo:'.pxu-photo'
+    });
+});
+</script>
+ 
+{block:IndexPage}  
+
+{block:ifnotInfiniteScrolling}
+<script type="text/javascript">
+$(document).ready(function(){
+    var $posts = $(".entry");
+    var $postIDs = $posts.map(function(){
+        return this.id;
+    }).get();
+    console.log($posts, $postIDs);
+    Tumblrcolor:EntryTextButton.get_status_by_post_ids($postIDs);
+});
+</script>
+{/block:ifnotInfiniteScrolling}
+
+
+{/block:IndexPage}  
+
+
+
+
+ 
+</head>
+ 
+
+
+
+
+
+<body>
+ 
+
+{block:ifmusicplayer}
+<div id="musicbox2">
+<div id="insidebox">
+<div id="musicpic"><img src="http://static.tumblr.com/rltvkjt/jwflmr3vh/marcadores71.gif"></div>
+<div id="playerbox">{text:musiccode}</div>
+</div><!--insidebox-->
+</div><!--musicbox-->
+{/block:ifmusicplayer}
+ 
+ 
+    {block:Pagination}
+    <div id="pagination">
+        {block:PreviousPage}<a href="{PreviousPage}" class="prev hint--right" data-hint="back"><i class="ion-chevron-left"></i></a>{/block:PreviousPage}
+{block:NextPage}<a href="{NextPage}" class="next hint--right" data-hint="forth"><i class="ion-chevron-right"></i></a>{/block:NextPage}
+    </div>
+    {/block:Pagination}
+ 
+
+ 
+<div class="psholder">
+ 
+<div id="sidebar">
+
+<div class="blogtitle"> {title} 
+{block:ifsubtitle}<div id="subtitle">{text:subtitle}</div>{/block:ifsubtitle}
+</div>
+
+<div id="sidebarx">
+<img src="{image:sidebarimage}">
+</div>
+
+<div id="navibox">
+<div id="navibox1"><a href="/"><div id="navitext">Home</div></a></div>
+<div id="navibox2"><a href="/ask"><div id="navitext">Ask</div></a></div>
+<div id="navibox3"><a href="/archive"><div id="navitext">Past</div></a></div>
+<div id="navibox4"><a href="http://dianthus-s.tumblr.com/"><div id="navitext">Theme</div></a></div>
+</div>
+
+
+
+<div id="desc">
+{Description}
+</div>
+
+{block:ifcustomlinks}
+<a id="hide" style="cursor:pointer;">EXPLORE &#9655;</a>
+<div id="customlinksbox">
+{block:ifLink1}<a href="{text:URL1}" >{text:Link1}</a>{/block:ifLink1}
+{block:ifLink2}<a href="{text:URL2}" >{text:Link2}</a>{/block:ifLink2}
+{block:ifLink3}<a href="{text:URL3}" >{text:Link3}</a>{/block:ifLink3}
+{block:ifLink4}<a href="{text:URL4}" >{text:Link4}</a>{/block:ifLink4}
+{block:ifLink5}<a href="{text:URL5}" >{text:Link5}</a>{/block:ifLink5}
+{block:ifLink6}<a href="{text:URL6}" >{text:Link6}</a>{/block:ifLink6}
+{block:ifLink7}<a href="{text:URL7}" >{text:Link7}</a>{/block:ifLink7}
+{block:ifLink8}<a href="{text:URL8}" >{text:Link8}</a>{/block:ifLink8}
+</div>
+{/block:ifcustomlinks}
+
+
+
+{block:IfNotInfiniteScrolling}
+{block:indexpage}
+<div id="pagi">
+ 
+{block:Pagination}
+{block:PreviousPage}<a href="{PreviousPage}" class="jump_page">Back</a>{/block:PreviousPage}
+{block:JumpPagination length="5"}
+{block:CurrentPage}<span class="current_page">✗</span>{/block:CurrentPage}
+{block:JumpPage}<a class="jump_page" href="{URL}">{PageNumber}</a>{/block:JumpPage}{/block:JumpPagination}
+{block:NextPage}<a href="{NextPage}" class="jump_page">Next</a>{/block:NextPage}
+{/block:Pagination}
+ 
+ 
+</div>
+{/block:indexpage}  
+{/block:IfNotInfiniteScrolling}
+
+</div>
+
+
+
+
+ 
+ 
+
+<div id="posts"> 
+{block:Posts}
+
+<div class="entry" >
+
+{block:IndexPage}
+<div id="permanew">
+<div id="notesx">
+<a href="{Permalink}">{NoteCountWithLabel}</a>
+</div>
+{block:RebloggedFrom}
+<div class="ovholder">
+<div class="ori_viax">
+<a href="{ReblogRootURL}" title="Origin"><img src="{ReblogRootPortraitURL-30}"></a>
+<a href="{ReblogParentURL}" title="Via"><img src="{ReblogParentPortraitURL-30}"></a>
+<div class="ori_via_text">Ori</div>
+<div class="ori_via_text">Via</div>
+</div>
+</div>
+{/block:RebloggedFrom}  
+<div class="lholder">
+<div class="likebuttonx">
+    <div class="like">
+    <svg width="15" height="15" viewBox="0 0 19 15" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000000">
+        <path d="M14.0425097,0.000920262799 C16.1435097,-0.0400797372 18.8835097,1.28192026 18.9635097,5.36992026 C19.0525097,9.95492026 15.1985097,13.3079203 9.48350967,16.2089203 C3.76650967,13.3079203 -0.0874903349,9.95492026 0.00150966509,5.36992026 C0.0815096651,1.28192026 2.82150967,-0.0400797372 4.92250967,0.000920262799 C7.02450967,0.0419202628 8.87050967,2.26592026 9.46950967,2.92792026 C10.0945097,2.26592026 11.9405097,0.0419202628 14.0425097,0.000920262799 Z"></path>
+    </svg>
+    {LikeButton size="17"}
+</div>
+</div>
+<div class="dot">&bull;</div>
+<div class="reblogx">
+    <div class="reblog-button">
+        {ReblogButton size="16"}
+    </div>  
+</div>
+</div>
+</div>
+
+{/block:IndexPage}
+ 
+
+ 
+{block:Text}
+{block:Title}
+<div class="title">{Title}</div>
+{/block:Title}
+{Body}
+{/block:Text}
+ 
+ 
+ 
+ 
+{block:Photo}
+{block:If500Posts}
+{LinkOpenTag}<div style="background-color:{color:entrybackground};"><img src="{PhotoURL-HighRes}" class="center"></div>{LinkCloseTag}
+{/block:If500Posts}
+{block:IfNot500Posts}
+{block:IfNot540Posts}
+{LinkOpenTag}<div style="background-color:{color:entrybackground};"><img src="{PhotoURL-HighRes}" class="center"></div>{LinkCloseTag}
+{/block:IfNot540Posts}
+{block:If540Posts}
+{LinkOpenTag}<div style="background-color:{color:entrybackground};"><img style="min-width:540px;" src="{PhotoURL-HighRes}" class="center"></div>{LinkCloseTag}
+{/block:If540Posts}
+{/block:IfNot500Posts}
+{block:IfShowCaptions}
+{block:Caption}
+{Caption}
+{/block:Caption}
+{/block:IfShowCaptions}
+{block:IfNotShowCaptions}
+{block:PermalinkPage}
+{block:Caption}
+{Caption}
+{/block:Caption}
+{/block:PermalinkPage}
+{/block:IfNotShowCaptions}
+{/block:Photo}
+ 
+ 
+ 
+ 
+{block:Photoset}
+<div class="photo">
+    <div class="photo-slideshow" id="photoset_{PostID}" data-layout="{PhotosetLayout}">
+        {block:Photos}
+        <div class="photo-data">
+            <div class="pxu-photo">
+                <img src="{PhotoURL-500}" width="{PhotoWidth-500}" height="{PhotoHeight-500}" data-highres="{PhotoURL-HighRes}" data-width="{PhotoWidth-HighRes}" data-height="{PhotoHeight-HighRes}">
+            </div>
+            <a class="tumblr-box" rel="post-{PostID}" href="{PhotoURL-HighRes}"></a>
+        </div>
+        {/block:Photos}
+    </div>
+</div><!--photo-->
+{block:IfShowCaptions}
+{block:Caption}
+{Caption}
+{/block:Caption}
+{/block:IfShowCaptions}
+{block:IfNotShowCaptions}
+{block:PermalinkPage}
+{block:Caption}
+{Caption}
+{/block:Caption}
+{/block:PermalinkPage}
+{/block:IfNotShowCaptions}
+{/block:Photoset}
+ 
+ 
+ 
+ 
+{block:Link}
+<div class="title2">
+<a href="{URL}" {Target}>{Name}</br>
+<z>{URL}</z>
+</a>
+</div>
+{block:Description}{Description}{/block:Description}
+{/block:Link}
+ 
+ 
+ 
+ 
+{block:Quote}
+<center>
+<div class="quoteor">
+g  
+</div>
+</center>
+<div id="quote">{Quote}</div>
+{block:Source}
+<div id="source"> —{Source}</div>
+ 
+{block:ContentSource}
+<!-- {SourceURL}{block:SourceLogo}<img src="{BlackLogoURL}"
+width="{LogoWidth}" height="{LogoHeight}" alt="{SourceTitle}" />
+{/block:SourceLogo}
+{block:NoSourceLogo}{SourceLink}{/block:NoSourceLogo} -->
+{/block:ContentSource}
+ 
+{/block:Source}
+{/block:Quote}
+ 
+ 
+ 
+ 
+{block:Chat}
+{block:Title}
+<div class="title">&raquo {Title}</div>
+{/block:Title}
+{block:Lines}<div class="{Alt}">
+<div class="line">{block:Label}<span class="name">{Label}</span>{/block:Label} {Line}<br /></div></div>
+{/block:Lines}
+{/block:Chat}
+ 
+ 
+ 
+ 
+{block:Audio}
+        <div class="audiowrapper">
+        
+            <div class="audioimgwrapper">
+                            <div class="audioimgwrapper2"><img src="http://static.tumblr.com/uuxiawr/MKPo9aacy/albumart.png"></div>
+                            
+            
+                {block:AlbumArt}
+                    <div class="audioimgwrapper3"></div>
+                    <img src="{AlbumArtURL}">
+                {/block:AlbumArt}
+
+           </div>
+        <div class="playerbuttonbg">
+            <div class="newplayerbutton">
+                <div class="playerbuttonhug">
+           
+                    {AudioPlayerBlack}
+           
+                </div>
+            </div>
+        </div>
+       
+       <center>
+        <div class="trackdetails">
+                
+               
+                <p>
+                <font class="pc">{PlayCountWithLabel}</font>
+               
+                <font class="ann" style="margin-top:5px;display:block;width:100%;">{block:Artist}{Artist}{/block:Artist} - {block:TrackName}{TrackName}{/block:TrackName}</font>
+                </p>
+               
+
+        </div>
+        </center>
+        </div>
+{block:IfShowCaptions}
+{block:Caption}
+{Caption}
+{/block:Caption}
+{/block:IfShowCaptions}
+{block:IfNotShowCaptions}
+{block:PermalinkPage}
+{block:Caption}
+{Caption}
+{/block:Caption}
+{/block:PermalinkPage}
+{/block:IfNotShowCaptions}
+{/block:Audio}
+ 
+ 
+ 
+ 
+{block:Video}
+{block:if500Posts}{Video-500}{/block:if500Posts}
+{block:ifNot500Posts}{Video-400}{/block:ifNot500Posts}
+{block:IfShowCaptions}
+{block:Caption}
+{Caption}
+{/block:Caption}
+{/block:IfShowCaptions}
+{block:IfNotShowCaptions}
+{block:PermalinkPage}
+{block:Caption}
+{Caption}
+{/block:Caption}
+{/block:PermalinkPage}
+{/block:IfNotShowCaptions}
+{/block:Video}
+ 
+ 
+ 
+ 
+{block:Answer}
+<div class="ask">
+<div class="askx"><img src="{AskerPortraitURL-64}" align="center"></div>
+<div class="asky">{Asker} ASKED &rarr;</div></br></br> 
+{Question}
+</div>
+<div class="aska">{Answer}</div>
+{/block:Answer}
+ 
+ 
+ 
+ 
+{block:PermalinkPage}
+<div class="permalink">
+<center><div id="date">{block:Date}posted {12Hour}:{Minutes} {AmPm} on {DayOfWeek}, {Month} {DayOfMonth}, {Year}{/block:Date} {block:NoteCount}with {NoteCountWithLabel}{/block:NoteCount}</div>{block:RebloggedFrom}<b>origin:</b> <a href="{ReblogRootURL}">{ReblogRootName}</a> &nbsp;|&nbsp; <b>via:</b> <a href="{ReblogParentURL}">{ReblogParentName}</a><br />{/block:RebloggedFrom}
+{block:HasTags}<b>tags &raquo;</b> {block:Tags} #<a href="/tagged/{Tag}">{Tag}</a>{/block:Tags}{/block:HasTags}</center>
+{block:PostNotes}
+{PostNotes}
+{/block:PostNotes}
+</div>
+{/block:PermalinkPage}
+ 
+ </div>
+ 
+{block:indexpage}
+{block:IfShowTags}
+{block:HasTags}
+<div class="tags">
+{block:Tags}
+&nbsp;<a href="/tagged/{Tag}">{Tag}</a>
+{/block:Tags}
+</div>
+{/block:HasTags}
+{/block:IfShowTags}
+{/block:indexpage}
+
+{/block:Posts}
+</div> 
+
+</div>
+
+
+{block:ifInfiniteScrolling}
+<script src="http://static.tumblr.com/uuxiawr/f4eo90xh1/jquery.infinitescroll.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+$(document).ready(function(){
+    // infinite scrolling
+    var $container = $('#posts');
+    $container.infinitescroll({
+        loadingImg:'',
+        loadingText:'<em></em>',
+        navSelector:'#pagination',
+        nextSelector:'#pagination a.next',
+        itemSelector:'.entry',
+    },
+    function(newElements){
+        // definitions
+        var $newElems = $(newElements);
+        
+        $newElems.find('.photo-slideshow').pxuPhotoset({
+            lightbox:true,
+            rounded:false,
+            gutter:'0px',
+            borderRadius:'0px',
+            photoset:'.photo-slideshow',
+            photoWrap:'.photo-data',
+            photo:'.pxu-photo'
+        });
+        var $posts = $(".entry");
+        var $postIDs = $posts.map(function(){
+            return this.id;
+        }).get();
+        console.log($newElems, $postIDs);
+        Tumblr.LikeButton.get_status_by_post_ids($postIDs);
+        resizeVideos();
+
+    });
+
+})(jQuery);
+</script>
+{/block:ifInfiniteScrolling} 
+
+ 
+<div>
+ 
+<img src="{image:cornerimage}" style="position:fixed;
+max-height: 100%;
+max-width: 500px;
+right:-20px;
+bottom:-5px;
+z-index:-9;
+">  
+   
+</div>
+ 
+</body>
+</html>
